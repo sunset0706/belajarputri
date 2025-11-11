@@ -4,6 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "repository": {
@@ -18,6 +19,6 @@
   },
   "homepage": "https://github.com/sunset0706/belajarputri#readme",
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^5.1.0"
   }
 }
